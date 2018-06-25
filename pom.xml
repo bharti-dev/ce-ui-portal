@@ -92,6 +92,13 @@
 		<module>favorites</module>
 		<module>search</module>
 		<module>configserver</module>
+		<module>content</module>
+		<module>account</module>
+		<module>apps</module>
+		<module>bootstrap</module>
+		<module>copy</module>
+		<module>device</module>
+		<module>interests</module>
 	</modules>
 		
 </project>
