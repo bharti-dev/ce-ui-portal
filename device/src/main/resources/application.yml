@@ -1,5 +1,5 @@
 server:
- port: ${PORT:2008}
+ port: ${PORT:2007}
 
 spring:
  autoconfigure:
